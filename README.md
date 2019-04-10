@@ -36,11 +36,6 @@
 | Azure [🔊](http://dict.youdao.com/dictvoice?audio=azure&type=1)| ✅ ['æʒə] | ❌ [ˈæzʊʒə] |
 | ASCII [🔊](http://dict.youdao.com/dictvoice?audio=ascii&type=1) | ✅ ['æski] | ❌ [ɑːsk] |
 | aspect [🔊](http://dict.youdao.com/dictvoice?audio=aspect&type=1) | ✅ ['æspekt] | ❌ [ə'spekt] |
-| archive [🔊](http://dict.youdao.com/dictvoice?audio=archive&type=1) | ✅ ['ɑːkaɪv] | ❌ ['ətʃɪv] |
-| array [🔊](http://dict.youdao.com/dictvoice?audio=array&type=1) | ✅ [ə'rei] | ❌ [æ'rei] |
-| archive [🔊](http://dict.youdao.com/dictvoice?audio=archive&type=1) | ✅ ['ɑːkaɪv] | ❌ ['ətʃɪv] |
-| array [🔊](http://dict.youdao.com/dictvoice?audio=array&type=1) | ✅ [ə'rei] | ❌ [æ'rei] |
-| alias [🔊](http://dict.youdao.com/dictvoice?audio=alias&type=2) | ✅ [ˈeɪliəs]| ❌ [ə'lais] |
 | Apache [🔊](http://dict.youdao.com/dictvoice?audio=Apache&type=1) | ✅ [ə'pætʃɪ] | ❌ [ʌpʌtʃ] |
 | archive [🔊](http://dict.youdao.com/dictvoice?audio=archive&type=1) | ✅ ['ɑːkaɪv] | ❌ ['ətʃɪv] |
 | array [🔊](http://dict.youdao.com/dictvoice?audio=array&type=1) | ✅ [ə'rei] | ❌ [æ'rei] |
